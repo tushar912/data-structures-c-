@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586441508 source:c:\users\tushar upadhyay\desktop\c++\data-structures\stack-using-stl\main.cpp
+	<iostream>
+	<stack>
+
